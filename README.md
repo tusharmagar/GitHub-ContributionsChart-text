@@ -39,7 +39,7 @@ To this!
     * **Repository Path:** The full path to the *local* Git repository where you want to generate the commits.
         * The script will create this directory if it doesn't exist.
         * **Recommendation:** Use a *new, empty repository* dedicated solely to this contribution art.
-    * **Text to Paint:** The message you want to appear on the graph (e.g., `HELLO GITHUB`).
+    * **Text to doodle:** The message you want to appear on the graph (e.g., `HELLO GITHUB`).
     * **Target Year:** The year the contributions should appear in (defaults to the current year).
     * **Starting Column:** The week number (0-52) where the text should begin (defaults to 1). 0 is the leftmost week column on the graph.
     * **Commits per Dot:** How many commits to generate for each 'X' in the character map (defaults to 1). More commits make the squares appear darker on the graph.
@@ -81,7 +81,7 @@ To this!
 
 ## Customization
 
-You can customize the appearance of characters by modifying the `CHAR_MAP` dictionary at the beginning of the `github_art_tui.py` script. Each character is defined by a list of 5 strings, representing the 5 rows (Monday to Friday) of the GitHub graph for that character's columns. 'X' means a commit (a green square), and ' ' means no commit.
+You can customize the appearance of characters by modifying the `CHAR_MAP` dictionary at the beginning of the `text.py` script. Each character is defined by a list of 5 strings, representing the 5 rows (Monday to Friday) of the GitHub graph for that character's columns. 'X' means a commit (a green square), and ' ' means no commit.
 
 ## License
 
