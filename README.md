@@ -2,8 +2,12 @@
 
 This Python script allows you to "doodle" custom text messages onto your GitHub contribution graph by generating Git commits on specific dates.
 
-![Example Placeholder - Imagine 'HELLO' written on a GitHub graph here]
-*(Ideally, replace the line above with an actual screenshot after you use the script!)*
+Go from this: 
+![Screenshot 2025-04-29 at 22 11 14](https://github.com/user-attachments/assets/61f5e40c-c355-4300-acde-ec3556d61bab)
+
+To this!
+![Screenshot 2025-04-29 at 22 25 50](https://github.com/user-attachments/assets/941457fc-c420-4f43-91b7-07a5d4f601ce)
+
 
 ## Features
 
