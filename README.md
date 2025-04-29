@@ -33,7 +33,7 @@ To this!
     ```
 3.  **Run the Script:** Execute the script using Python 3.
     ```bash
-    python github_art_tui.py
+    python text.py
     ```
 4.  **Follow Prompts:** The script will interactively ask you for the following information:
     * **Repository Path:** The full path to the *local* Git repository where you want to generate the commits.
